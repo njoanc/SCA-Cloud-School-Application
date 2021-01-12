@@ -47,3 +47,6 @@ docker push yourhubusername/verse_gapminder
 
 2. Saving and loading images
 docker save verse_gapminder > verse_gapminder.tar
+
+## link to Docker Hub
+https://hub.docker.com/repository/docker/jehanne123/sca-school
